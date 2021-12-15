@@ -3,4 +3,14 @@
   <groupId>com.crm</groupId>
   <artifactId>com.crm.Vtiger</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <dependency>
+     <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+  <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>6.14.3</version>
+    <scope>test</scope>
+     
+  </dependency>
+  </dependencies>
 </project>
