@@ -7,6 +7,7 @@ public class SmokeTest {
 	public void smoketest()
 	{
 		System.out.println("smoke test");
+		System.out.println("changed");
 	}
 	
 
