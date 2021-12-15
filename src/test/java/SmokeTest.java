@@ -9,6 +9,7 @@ public class SmokeTest {
 		System.out.println("smoke test");
 		System.out.println("changed");
 		System.out.println("program updated by sony");
+		System.out.println("program updated by sony");
 	}
 	
 
